@@ -38,7 +38,7 @@ const LoginPage = () => {
         backgroundColor={theme.palette.background.alt}
       >
         <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
-          Welcome to SocialAli 👋&#128522;,  Ali's social media app!
+          Welcome to SocialAli 👋&#128522;!  Here you can share images, moments, and thoughts with your friends.
         </Typography>
         <Form />
       </Box>
